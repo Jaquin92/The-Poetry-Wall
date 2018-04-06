@@ -1,0 +1,1 @@
+SELECT * FROM poems ORDER BY id DESC;

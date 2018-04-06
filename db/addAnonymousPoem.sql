@@ -1,0 +1,1 @@
+Insert into poems (body,title) values ($1,$2);
